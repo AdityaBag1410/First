@@ -6,6 +6,6 @@ def max_num(arr):
             maxnum=arr[i]
     return maxnum
 
-arr=[5,8,9,7,25,65,87]
+arr=[5,8,9,7,25,65,88]
 result=max_num(arr)
 print(result)
